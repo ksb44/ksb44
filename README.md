@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksb44&label=Profile%20views&color=0e75b6&style=flat" alt="ksb44" /> </p>
 
-- 🌱 I’m currently learning **Graphql, Nest , Prisma**
+- 🌱 I’m currently learning **Graphql , Prisma**
 
 - 👨‍💻 All of my projects are available at [https://kuldeep-singh-portfolio-ksb.netlify.app](https://kuldeep-singh-portfolio-ksb.netlify.app)
 
