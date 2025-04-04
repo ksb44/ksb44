@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React , Next , Express ,UI libraries**
 
-- 📫 How to reach me **12as1913162@gmail.com**
+- 📫 How to reach me **kuldeepsingh191362@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XfIH4-2Km21swM8Gzp8iLEnIU5rMEDcF/view](https://drive.google.com/file/d/1XfIH4-2Km21swM8Gzp8iLEnIU5rMEDcF/view)
 
